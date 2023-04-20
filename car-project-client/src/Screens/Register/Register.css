@@ -1,0 +1,28 @@
+.register-container{
+    display: flex;
+    justify-content: center;
+}
+.register-card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+    flex-direction: column;
+    width: 30%;
+    border: 1px solid black;
+    border-radius: 25px;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+.errorEmail{
+    color: red;
+    font-size: 14px;
+    position: absolute;
+    right: 9%;
+    top: 79%;
+}
+.inputC-control{
+    width: 100%;
+    position: relative;
+    margin-right: 9%;
+}

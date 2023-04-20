@@ -1,0 +1,45 @@
+.register-control{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    width: 100%;
+    align-items: center;
+    position: relative;
+}
+input{
+    height: 38px;
+    width: 70%;
+    border-radius: 10px;
+    border: 1px solid;
+    direction: rtl;
+    padding-right: 15px;
+}
+.inputError{
+   border-color: red;
+    }
+input{
+outline: none;
+}
+.title{  
+    position: absolute;
+    right: 19%;
+    top: 38%;
+}
+.title-focus{  
+    position: absolute;
+    right: 17%;
+    top: 13%;
+    background-color: white;
+    width:max-content;
+    display: flex;
+    justify-content: center;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.error{
+    color: red;
+    position: absolute;
+    right: 17%;
+    top: 78%;
+    font-size: 14px;
+}

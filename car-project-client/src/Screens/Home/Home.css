@@ -1,0 +1,25 @@
+
+.home-nav-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 4%;
+}
+.home-nav-control{
+    display: flex;
+    justify-content: center;
+    width: 60%;
+}
+.home-nav-btn{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+.cildren-control{
+    margin-top: -7%;
+}
+.logout-control{
+    right: -3%;
+    top: 2%;
+    width: 10%;
+    position: absolute;
+}

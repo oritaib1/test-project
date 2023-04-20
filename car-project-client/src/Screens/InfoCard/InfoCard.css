@@ -1,0 +1,13 @@
+.card{
+    display: flex;
+    direction: rtl;
+    width: 20%;
+    border: 1px solid black;
+    border-radius: 18px;
+    justify-content: flex-start;
+}
+.card-control{
+    display: flex;
+    justify-content: center;
+    margin-top: 8%;
+}

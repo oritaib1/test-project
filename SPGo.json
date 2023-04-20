@@ -1,0 +1,12 @@
+{
+    "sourceDirectory": "src",
+    "sharePointSiteUrl": "https://Ï",
+    "workspaceRoot": "/Users/ori/Documents/car-project-folder",
+    "publishWorkspaceOptions": {
+        "destinationFolder": "/",
+        "globPattern": "/Users/ori/Documents/car-project-folder/src/**/*.*",
+        "localRoot": "/Users/ori/Documents/car-project-folder/src"
+    },
+    "publishingScope": "SaveOnly",
+    "authenticationType": "Digest"
+}
